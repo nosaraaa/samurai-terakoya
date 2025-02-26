@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>恋愛リアリティーショーレビュー</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>恋愛リアリティーショーレビュー</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">ホーム</a></li>
+                <li><a href="#reviews">レビュー</a></li>
+                <li><a href="#about">关于</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>最新のレビュー</h2>
+        <div class="review">
+            <h3>ショー名: ラブアイランド</h3>
+            <p>レビュー: 今回のシーズンは特にドラマチックで、視聴者を飽きさせませんでした。</p>
+            <p>評価: ⭐⭐⭐⭐</p>
+        </div>
+        <div class="review">
+            <h3>ショー名: テラスハウス</h3>
+            <p>レビュー: メンバーの人間関係が深まり、見応えがありました。</p>
+            <p>評価: ⭐⭐⭐</p>
+        </div>
+    </section>
+
+    <section id="reviews">
+        <h2>すべてのレビュー</h2>
+        <div class="review">
+            <h3>ショー名: バチェロレット</h3>
+            <p>レビュー: ロマンスとドラマが絶妙にブレンドされています。</p>
+            <p>評価: ⭐⭐⭐⭐</p>
+        </div>
+        <div class="review">
+            <h3>ショー名: ラブは盲目</h3>
+            <p>レビュー: ユニークなコンセプトで新鮮でした。</p>
+            <p>評価: ⭐⭐⭐⭐</p>
+        </div>
+    </section>
+
+    <footer id="about">
+        <p>&copy; 2025 恋愛リアリティーショーレビュー</p>
+    </footer>
+</body>
+</html>
